@@ -1,0 +1,10 @@
+---
+build_requires: {}
+configure_requires: {}
+recommends: {}
+requires:
+  cpan-Carp:
+    version: 1.22
+  cpan-Sub-Uplevel:
+    version: 0.12
+test_requires: {}

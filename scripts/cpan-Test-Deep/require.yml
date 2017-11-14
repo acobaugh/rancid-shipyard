@@ -1,0 +1,10 @@
+---
+build_requires:
+  cpan-Test-Simple:
+    version: 0.04
+configure_requires: {}
+recommends: {}
+requires:
+  cpan-Test-Simple:
+    version: 0.04
+test_requires: {}

@@ -1,0 +1,5 @@
+---
+perl:
+  vendor: http://www.cpan.org/src/5.0/perl-5.26.1.tar.gz
+rancid:
+  vendor: ftp://ftp.shrubbery.net/pub/rancid/rancid-3.7.tar.gz

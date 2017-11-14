@@ -1,0 +1,18 @@
+---
+- perl
+- cpan-parent
+- cpan-HTML-Tagset
+- cpan-HTML-Parser
+- cpan-Sub-Uplevel
+- cpan-Carp
+- cpan-Test-Warn
+- cpan-Test-Simple
+- cpan-Test-NoWarnings
+- cpan-Test-Deep
+- cpan-CGI
+- cpan-LockFile-Simple
+- cpan-TimeDate
+- cpan-MailTools
+- cpan-Socket6
+- cpan-Getopt-Long
+- rancid

@@ -1,0 +1,19 @@
+---
+CGI: cpan-CGI
+Carp: cpan-Carp
+Date::Format: cpan-TimeDate
+Date::Parse: cpan-TimeDate
+Getopt::Long: cpan-Getopt-Long
+HTML::Entities: cpan-HTML-Parser
+HTML::Tagset: cpan-HTML-Tagset
+LockFile::Simple: cpan-LockFile-Simple
+Mail::Mailer: cpan-MailTools
+MailTools: cpan-MailTools
+Socket6: cpan-Socket6
+Sub::Uplevel: cpan-Sub-Uplevel
+Test::Deep: cpan-Test-Deep
+Test::More: cpan-Test-Simple
+Test::NoWarnings: cpan-Test-NoWarnings
+Test::Tester: cpan-Test-Simple
+Test::Warn: cpan-Test-Warn
+parent: cpan-parent

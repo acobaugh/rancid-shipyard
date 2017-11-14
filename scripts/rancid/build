@@ -1,0 +1,4 @@
+configure: ./configure --prefix=%%INSTALL_BASE%% --with-git
+make: %%MAKE%%
+install: %%MAKE%% install
+clean: %%MAKE%% clean

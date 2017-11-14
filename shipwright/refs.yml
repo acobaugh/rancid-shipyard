@@ -1,0 +1,18 @@
+---
+cpan-CGI: 0
+cpan-Carp: 1
+cpan-Getopt-Long: 0
+cpan-HTML-Parser: 1
+cpan-HTML-Tagset: 1
+cpan-LockFile-Simple: 0
+cpan-MailTools: 0
+cpan-Socket6: 0
+cpan-Sub-Uplevel: 1
+cpan-Test-Deep: 1
+cpan-Test-NoWarnings: 1
+cpan-Test-Simple: 3
+cpan-Test-Warn: 1
+cpan-TimeDate: 1
+cpan-parent: 1
+perl: 0
+rancid: 0

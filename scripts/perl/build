@@ -1,0 +1,5 @@
+configure: sh Configure -de -Dprefix=%%INSTALL_BASE%% -Dinstallstyle=lib/perl5
+make: %%MAKE%%
+test: %%MAKE%% test
+install: %%MAKE%% install
+clean: %%MAKE%% clean

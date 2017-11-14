@@ -1,0 +1,35 @@
+---
+cpan-CGI:
+  vendor: 4.37
+cpan-Carp:
+  vendor: 1.38
+cpan-Getopt-Long:
+  vendor: 2.50
+cpan-HTML-Parser:
+  vendor: 3.72
+cpan-HTML-Tagset:
+  vendor: 3.20
+cpan-LockFile-Simple:
+  vendor: 0.208
+cpan-MailTools:
+  vendor: 2.19
+cpan-Socket6:
+  vendor: 0.28
+cpan-Sub-Uplevel:
+  vendor: 0.2800
+cpan-Test-Deep:
+  vendor: 1.127
+cpan-Test-NoWarnings:
+  vendor: 1.04
+cpan-Test-Simple:
+  vendor: 1.302106
+cpan-Test-Warn:
+  vendor: 0.32
+cpan-TimeDate:
+  vendor: 2.30
+cpan-parent:
+  vendor: 0.236
+perl:
+  vendor: 5.26.1
+rancid:
+  vendor: 3.7
